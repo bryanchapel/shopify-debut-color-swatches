@@ -7,6 +7,10 @@ Basically it turns this:
 Into this:
 ![New Color Swatches](https://github.com/bryanchapel/shopify-debut-color-swatches/blob/master/screenshots/after.png "New Color Swatches")
 
+I actually like this approach because it utilizes assets already being included on the page, and since you're using a chunk of the actaul product image, the swatch is very representative of the color (instead of trying to find the best match with a hex code). In some instances, like in the bag pic below, I thought the effect worked well by both highlighting the bag color as well as the text color in the swatch:
+
+![Bag Color Swatches](https://github.com/bryanchapel/shopify-debut-color-swatches/blob/master/screenshots/bag.png "Bag Color Swatches")
+
 # Usage:
 1. Copy the contents from the product-template.liquid file to your own product-template.liquid file.
 2. When using Color options, you can name the option type as either 'Color' or 'Colors', this should work for both.

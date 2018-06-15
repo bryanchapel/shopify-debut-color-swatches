@@ -1,5 +1,5 @@
 # What is this?
-This is a drop in replacement for the default product template in Shopify's Debut theme (though I'm sure the basic logic I've used could generally be applied to just about any theme.)
+This is a drop in replacement for the default product template in Shopify's Debut theme, though I'm sure the basic logic I've used could generally be applied to just about any theme.
 
 Basically it turns this:
 ![Default Color Dropdown](https://github.com/bryanchapel/shopify-debut-color-swatches/blob/master/screenshots/before.png "Default Color Dropdown")
